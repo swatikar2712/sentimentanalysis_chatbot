@@ -1,0 +1,7 @@
+textblob==0.17.1
+nltk==3.9.1
+
+transformers==4.46.2
+torch==2.5.1
+
+numpy==2.1.3

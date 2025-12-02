@@ -1,0 +1,140 @@
+[
+    {
+        "conversation": [
+            [
+                "hello",
+                "Hi! What\u2019s on your mind today?"
+            ],
+            [
+                "nothing is going my way",
+                "Hey! How\u2019s your day going?"
+            ],
+            [
+                "not good",
+                "That sounds tough. Want to talk it through?"
+            ],
+            [
+                "no",
+                "Interesting. Can you tell me more?"
+            ],
+            [
+                "no",
+                "Hmm, I see. What else is on your mind?"
+            ],
+            [
+                "im neither happy nor sad ",
+                "Awesome \u2014 keep that energy going!"
+            ]
+        ],
+        "overall_sentiment": "Overall Neutral",
+        "trend_summary": "Mood shifted from Neutral to Positive."
+    },
+    {
+        "conversation": [
+            [
+                "HELLO",
+                "Hi! What\u2019s on your mind today?"
+            ],
+            [
+                "I'm not doing well",
+                "Previously you said 'HELLO', now 'I'm not doing well'. That seems steady \u2014 want to expand?"
+            ],
+            [
+                "No ",
+                "Previously you said 'I'm not doing well', now 'No '. That seems steady \u2014 want to expand?"
+            ],
+            [
+                "yes i feel better now",
+                "You mentioned 'No ' earlier, and now 'yes i feel better now'. I notice a positive shift!"
+            ],
+            [
+                "yea i fell good",
+                "You mentioned 'yes i feel better now' earlier, and now 'yea i fell good'. I notice a positive shift!"
+            ]
+        ],
+        "overall_sentiment": "Overall Positive",
+        "trend_summary": "Mood shifted from Neutral to Positive."
+    },
+    {
+        "conversation": [
+            [
+                "hello",
+                "You seem neutral.  Hello! How are you doing today? I just got back from a walk with my dog."
+            ],
+            [
+                "hello",
+                "You seem neutral.  Hello! How are you doing today? I just got back from a walk with my dog."
+            ],
+            [
+                "i'm stuck in traffic ughh",
+                "You seem neutral.  Oh no!  Are you stuck in a traffic jam?  I hate it when that happens."
+            ],
+            [
+                "i'm stuck in traffic ughh",
+                "You seem neutral.  Oh no!  Are you stuck in a traffic jam?  I hate it when that happens."
+            ],
+            [
+                "i'm angry at people",
+                "I sense some struggle.  I'm sorry to hear that. Why are you angry with people? Do they do something to make you angry?"
+            ],
+            [
+                "i'm angry at people",
+                "I sense some struggle.  I'm sorry to hear that. Why are you angry with people? Do they do something to make you angry?"
+            ],
+            [
+                "they wont move",
+                "You seem neutral.  I know they won't move, but I don't want them to. I just don't know what to do."
+            ],
+            [
+                "they wont move",
+                "You seem neutral.  I know they won't move, but I don't want them to. I just don't know what to do."
+            ]
+        ],
+        "overall_sentiment": "Overall Negative",
+        "trend_summary": "Mood remained Neutral throughout."
+    },
+    {
+        "conversation": [
+            [
+                "hello",
+                " Hello! How are you doing today? I just got back from a walk with my dog."
+            ],
+            [
+                "hello",
+                " Hello! How are you doing today? I just got back from a walk with my dog."
+            ],
+            [
+                "i am stuck at a traffic jam ",
+                " I'm sorry to hear that. Traffic jams are the worst. I try to stay away from them as much as I can."
+            ],
+            [
+                "i am stuck at a traffic jam ",
+                " I'm sorry to hear that. Traffic jams are the worst. I try to stay away from them as much as I can."
+            ],
+            [
+                "my boss is so annoying , i have a headache",
+                " I'm sorry to hear that. What kind of work do you do, if you don't mind me asking?"
+            ],
+            [
+                "my boss is so annoying , i have a headache",
+                " I'm sorry to hear that. What kind of work do you do, if you don't mind me asking?"
+            ]
+        ],
+        "overall_sentiment": "Overall Negative",
+        "trend_summary": "Mood shifted from Neutral to Negative."
+    },
+    {
+        "conversation": [
+            [
+                "hi",
+                " Hi! How are you? I just got back from walking my dog. Do you have any pets?"
+            ],
+            [
+                "no i am tired",
+                " I'm sorry to hear that. I hope you feel better soon. I'm here for you if you need someone to talk to."
+            ]
+        ],
+        "overall_sentiment": "Overall Negative",
+        "trend_summary": "Mood shifted from Neutral to Negative."
+    }
+]
